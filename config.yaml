@@ -1,0 +1,6 @@
+saveDir: 'outcomes'
+cocoTrain: "../../data/train2014"
+cocoVal: "../../data/val2014"
+cocoMid: "../../data/mid2014"
+Interval: 10
+
